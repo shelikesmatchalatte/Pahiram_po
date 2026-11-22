@@ -1,0 +1,6 @@
+/**
+ * DataManager
+ */
+public class DataManager {
+
+}

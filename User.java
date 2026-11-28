@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-// User.java
+
 public abstract class User {
     protected String userID;
     protected String name;
@@ -49,6 +48,4 @@ class StaffFaculty extends User {
         System.out.println("Displaying Staff/Faculty Borrower Dashboard for: " + name);
     }
 }
-=======
-User.java
->>>>>>> 0238a30d36536d472c0a020d073d286d4afbbecf
+

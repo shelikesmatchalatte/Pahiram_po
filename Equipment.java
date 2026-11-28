@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-=======
-//phia
->>>>>>> 0238a30d36536d472c0a020d073d286d4afbbecf
 public class Equipment {
     private String equipmentID;
     private String category;
@@ -55,8 +50,5 @@ public class Equipment {
         System.out.println("[" + equipmentID + "] " + name + " (" + category + ") | Status: " + status + 
                            " | Available: " + availableQuantity + "/" + totalQuantity);
     }
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> 0238a30d36536d472c0a020d073d286d4afbbecf
